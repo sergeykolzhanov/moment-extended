@@ -6,10 +6,10 @@
     "name": "Sergey Kolzhanov",
     "email": "sergeykolzhanov@gmail.com",
   },
-  "homepage": "https://github.com/louischatriot/nedb",
+  "homepage": "https://github.com/sergeykolzhanov/moment-extended",
   "repository": {
     "type": "git",
-    "url": "git@github.com:sergeykolzhanov/moment-extended.git"
+    "url": "https://github.com/sergeykolzhanov/moment-extended"
   },
   "dependencies": {
     "moment": "*"
