@@ -1,0 +1,19 @@
+{
+  "name": "moment-extended",
+  "description": "Extension of Moment.js",
+  "version": "0.0.1",
+  "author": {
+    "name": "Sergey Kolzhanov",
+    "email": "sergeykolzhanov@gmail.com",
+  },
+  "homepage": "https://github.com/louischatriot/nedb",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sergeykolzhanov/moment-extended.git"
+  },
+  "dependencies": {
+    "moment": "*"
+  },
+  "main": "moment-extended",
+  "licence": "MIT"
+}
